@@ -34,7 +34,7 @@
             "Key": "0019f8fc-127d-42af-bee2-7e4c35572cd2",
             "Value": {
                 "id": "1f2faec2-f6ca-486f-94e8-f5b6b82759c2",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Level_1\\Level_1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1aec2702-98a9-4b73-93b0-283aff623da0",
+            "Value": {
+                "id": "cb637a54-3deb-4ca2-aad8-e87bc0657538",
+                "resourcePath": "fonts\\F_Text\\F_Text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "1f343866-e9c3-4b8a-a8f7-d664c4cdf205",
             "Value": {
                 "id": "bb99fc92-77e2-4101-a235-e6a3b6bc101f",
@@ -71,11 +79,27 @@
             }
         },
         {
+            "Key": "2040558a-e0cf-43f1-9eb8-b7a7981b8e2a",
+            "Value": {
+                "id": "9a47d961-8b54-45bb-ad27-7848e77277bf",
+                "resourcePath": "sprites\\S_Obstacle\\S_Obstacle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "22c35da1-3e64-4554-8a52-a2103257d92f",
             "Value": {
                 "id": "7a46680e-7201-401b-9df2-5af7fbd23f39",
                 "resourcePath": "views\\22c35da1-3e64-4554-8a52-a2103257d92f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "36a127b3-e82b-4eb6-9869-0f94dfeffc63",
+            "Value": {
+                "id": "348c0d3a-58b3-4411-8649-83ccbedeed96",
+                "resourcePath": "objects\\O_Goal\\O_Goal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -143,6 +167,14 @@
             }
         },
         {
+            "Key": "896c90d3-6ba7-4b0d-8f37-fd49a9b1b350",
+            "Value": {
+                "id": "287b3088-a789-46ba-9d69-8f996c8759a5",
+                "resourcePath": "objects\\O_Obstacle\\O_Obstacle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a8893783-745d-4dff-91f9-dc7d12063206",
             "Value": {
                 "id": "a4e8a3d8-7d83-491a-a3c8-66b0fa5397ff",
@@ -196,6 +228,22 @@
                 "id": "c727c76b-f29c-445a-8b9a-1f54a0792adc",
                 "resourcePath": "views\\ec123c6e-a383-4c28-af7d-60907b634e7a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f14df8b1-bf5c-4e09-8d86-cba80de466da",
+            "Value": {
+                "id": "e4cdafac-96bd-494a-8b37-a098067c2554",
+                "resourcePath": "objects\\O_Camera\\O_Camera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f33a82a6-7c3a-4f12-adfc-90bf132ccaed",
+            "Value": {
+                "id": "94cc9635-5a12-43d1-82ce-2ea36d6ae856",
+                "resourcePath": "sprites\\S_Goal\\S_Goal.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

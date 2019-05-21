@@ -5,3 +5,6 @@ grv = 0.3;
 walk_speed = 4;
 
 jump_magnitude = -7;
+
+jump_times = 0;
+jump_max = 2;
