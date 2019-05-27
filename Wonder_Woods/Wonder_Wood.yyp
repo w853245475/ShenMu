@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1d3d8fe4-65e3-4694-b45a-56091aa16d6b",
+            "Value": {
+                "id": "7f62b497-014d-4335-a409-2f0977a7fef0",
+                "resourcePath": "objects\\O_Fruit_1\\O_Fruit_1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f343866-e9c3-4b8a-a8f7-d664c4cdf205",
             "Value": {
                 "id": "bb99fc92-77e2-4101-a235-e6a3b6bc101f",
@@ -100,6 +108,14 @@
                 "id": "7a46680e-7201-401b-9df2-5af7fbd23f39",
                 "resourcePath": "views\\22c35da1-3e64-4554-8a52-a2103257d92f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "31e81429-5516-4749-b3fb-6a47e6d979ef",
+            "Value": {
+                "id": "a6092311-8789-495f-93f7-1e082a753d51",
+                "resourcePath": "objects\\O_Fruit_2\\O_Fruit_2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -236,6 +252,22 @@
                 "id": "a3ae0803-fffe-4758-ad32-6958f68c6f3f",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a9a98750-c2ee-4b0c-8a7b-0e83ef6debb9",
+            "Value": {
+                "id": "ea5d210f-7182-49b4-ae13-30367ee475fa",
+                "resourcePath": "sprites\\S_Fruit_1\\S_Fruit_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bb976bb0-d30b-46f4-9634-9b56bdda57a0",
+            "Value": {
+                "id": "b42d8b82-c34b-49de-b88a-1c48c864fb02",
+                "resourcePath": "sprites\\S_Fruit_2\\S_Fruit_2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
