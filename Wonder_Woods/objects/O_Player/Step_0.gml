@@ -20,7 +20,7 @@ if (key_jump)
 */
 if (key_jump) && (jump_times>0)
 {
-	show_debug_message(jump_times);
+	//show_debug_message(jump_times);
 	jump_times-=1;
 	v_speed = jump_magnitude;	
 }
