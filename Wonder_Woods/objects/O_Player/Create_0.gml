@@ -8,3 +8,5 @@ jump_magnitude = -7;
 
 jump_times = 0;
 jump_max = 2;
+
+move_disabled = false;

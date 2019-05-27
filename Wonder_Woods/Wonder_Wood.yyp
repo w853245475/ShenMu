@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1942f44b-9535-4fd0-bdb0-774a83589f40",
+            "Value": {
+                "id": "540662e0-7844-4d4a-a44a-f10182f7950a",
+                "resourcePath": "objects\\O_GameManager\\O_GameManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1aec2702-98a9-4b73-93b0-283aff623da0",
             "Value": {
                 "id": "cb637a54-3deb-4ca2-aad8-e87bc0657538",
@@ -108,6 +116,22 @@
                 "id": "d3c6fe5d-ccac-437b-9466-c352549af318",
                 "resourcePath": "views\\39265659-a457-43fe-a798-a9184a3ab8ae.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3d29fb44-bd54-4241-8fac-1b820c547c47",
+            "Value": {
+                "id": "eed8a14d-1dd8-4679-865c-b84ac04cade6",
+                "resourcePath": "rooms\\Level_2\\Level_2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4a755c82-00c5-4631-b64b-ad83e304ff63",
+            "Value": {
+                "id": "8af1f919-2ff1-4589-847b-cc719e4afa65",
+                "resourcePath": "sprites\\S_Spike\\S_Spike.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,6 +183,22 @@
             }
         },
         {
+            "Key": "7a98b9fc-1e84-4e7a-9f45-454ea067a876",
+            "Value": {
+                "id": "e1ffdcec-5443-4944-948f-704642ef4189",
+                "resourcePath": "objects\\O_Spike\\O_Spike.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7b1b8767-df45-45ac-952f-7c94d2191750",
+            "Value": {
+                "id": "a7539c19-3fd6-4d8b-ad1c-e5b8d1db30fc",
+                "resourcePath": "objects\\O_Tree\\O_Tree.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "80c94cf5-9eaa-4fd5-9b7f-55d4de87315f",
             "Value": {
                 "id": "80facb17-5031-4449-8230-f35e241b5ab1",
@@ -171,6 +211,14 @@
             "Value": {
                 "id": "287b3088-a789-46ba-9d69-8f996c8759a5",
                 "resourcePath": "objects\\O_Obstacle\\O_Obstacle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8e721191-a1fb-4f5a-8adf-83ff17163562",
+            "Value": {
+                "id": "0014ef20-0cec-4df5-abc1-4c9cdcf163d4",
+                "resourcePath": "objects\\O_Mushroom\\O_Mushroom.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -188,6 +236,14 @@
                 "id": "a3ae0803-fffe-4758-ad32-6958f68c6f3f",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "c54724df-519d-48ae-8c29-02229093332c",
+            "Value": {
+                "id": "d0a84be8-1cf5-45ac-86a2-3bdc979b907c",
+                "resourcePath": "sprites\\S_Water\\S_Water.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -263,11 +319,35 @@
             }
         },
         {
+            "Key": "f88a40f4-b07b-43c0-8924-108176afd668",
+            "Value": {
+                "id": "3b2913d5-2aa8-441d-be5d-2c5eb985ab07",
+                "resourcePath": "objects\\O_Water\\O_Water.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fb8ff4fb-cee9-4330-ba35-58b804ef361e",
+            "Value": {
+                "id": "47357c24-c599-4a63-9a1b-fe6e0a4ec137",
+                "resourcePath": "sprites\\S_Tree\\S_Tree.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fcc285c1-5bfe-4fce-8227-bdcfd6d7598c",
             "Value": {
                 "id": "2b65bb14-3b1a-4ba1-9662-2e594fc088d3",
                 "resourcePath": "views\\fcc285c1-5bfe-4fce-8227-bdcfd6d7598c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fee1e54b-af8a-493d-bfaa-890870cb1980",
+            "Value": {
+                "id": "7b406530-43a4-4ecd-9240-a98e74b30cb5",
+                "resourcePath": "sprites\\S_Mushroom\\S_Mushroom.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
