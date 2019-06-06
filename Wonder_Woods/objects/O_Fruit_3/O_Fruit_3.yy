@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "O_Fruit_3",
     "eventList": [
-        
+        {
+            "id": "27440172-3418-4877-b61b-ec5b04ac2247",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a42ea806-9550-417f-bd57-ee7abbc757e3"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
