@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "a42ea806-9550-417f-bd57-ee7abbc757e3",
+            "Value": {
+                "id": "b7e97bfc-56a0-4def-84ea-f7e97ff455cc",
+                "resourcePath": "objects\\O_Fruit_3\\O_Fruit_3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a8893783-745d-4dff-91f9-dc7d12063206",
             "Value": {
                 "id": "a4e8a3d8-7d83-491a-a3c8-66b0fa5397ff",
@@ -267,6 +275,14 @@
             "Value": {
                 "id": "b42d8b82-c34b-49de-b88a-1c48c864fb02",
                 "resourcePath": "sprites\\S_Fruit_2\\S_Fruit_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c09effe2-1de9-4973-b0b2-a1b6946fb10b",
+            "Value": {
+                "id": "12fed3f6-1c04-4ee3-b0d3-9ab41b1fc181",
+                "resourcePath": "sprites\\S_Fruit_3\\S_Fruit_3.yy",
                 "resourceType": "GMSprite"
             }
         },
