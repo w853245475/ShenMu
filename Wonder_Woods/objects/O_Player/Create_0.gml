@@ -10,3 +10,5 @@ jump_times = 0;
 jump_max = 2;
 
 move_disabled = false;
+
+image_xscale = -1;

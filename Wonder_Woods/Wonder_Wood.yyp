@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "4e515485-05ca-4fb9-aebc-962803a8ddc5",
+            "Value": {
+                "id": "7687008f-702b-45aa-98e5-4f8451c881b1",
+                "resourcePath": "views\\4e515485-05ca-4fb9-aebc-962803a8ddc5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "521de314-7d02-4306-8b03-67b3a9f31678",
             "Value": {
                 "id": "68872619-b78f-46df-bfd3-810d14d59493",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "6e693593-e563-4ca3-b0f6-4371a7f32bc0",
+            "Value": {
+                "id": "e12df573-6ac1-4a25-8232-714527dd6157",
+                "resourcePath": "sprites\\S_Running\\S_Running.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73da61ee-0cd2-44e1-8de0-e634ba84d263",
             "Value": {
                 "id": "39b1edf4-eda8-41f7-9262-b8161742329c",
@@ -215,11 +231,27 @@
             }
         },
         {
+            "Key": "7f54b1e4-e1f5-4e71-9c47-0b78cc9fe0b9",
+            "Value": {
+                "id": "d7b5fde1-4b36-441e-a1d5-b68c85aaa6a4",
+                "resourcePath": "rooms\\Level_3\\Level_3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "80c94cf5-9eaa-4fd5-9b7f-55d4de87315f",
             "Value": {
                 "id": "80facb17-5031-4449-8230-f35e241b5ab1",
                 "resourcePath": "views\\80c94cf5-9eaa-4fd5-9b7f-55d4de87315f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "83de2e54-a7d6-4b1e-800c-fdd94e34f387",
+            "Value": {
+                "id": "2a687c28-e8f3-42f4-a8d1-c62eb7fdcdb6",
+                "resourcePath": "sprites\\S_Jump\\S_Jump.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -327,6 +359,14 @@
             }
         },
         {
+            "Key": "eb676db4-332e-402b-a48a-54083cf14221",
+            "Value": {
+                "id": "fa644cc5-8fce-4666-b797-52a7bf5dea11",
+                "resourcePath": "sprites\\S_Fall\\S_Fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ec123c6e-a383-4c28-af7d-60907b634e7a",
             "Value": {
                 "id": "c727c76b-f29c-445a-8b9a-1f54a0792adc",
@@ -395,6 +435,14 @@
             "Value": {
                 "id": "7b406530-43a4-4ecd-9240-a98e74b30cb5",
                 "resourcePath": "sprites\\S_Mushroom\\S_Mushroom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ffc6195e-6b2e-4952-8894-2369f27a7c55",
+            "Value": {
+                "id": "b8f93348-695e-4902-8cf1-80a544be6998",
+                "resourcePath": "sprites\\S_SecondJump\\S_SecondJump.yy",
                 "resourceType": "GMSprite"
             }
         }
