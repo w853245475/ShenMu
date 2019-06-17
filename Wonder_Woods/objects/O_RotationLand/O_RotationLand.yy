@@ -1,28 +1,28 @@
 {
-    "id": "31721ded-ac9f-48e4-a139-09819ee35e10",
+    "id": "b322cf20-c4d6-4ab1-823a-b254412235d5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "O_FallingLand",
+    "name": "O_RotationLand",
     "eventList": [
         {
-            "id": "59e1df51-25db-4d49-adac-2ae84585bfc3",
+            "id": "573ece14-e01f-4d7f-819b-805be4d92951",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "31721ded-ac9f-48e4-a139-09819ee35e10"
+            "m_owner": "b322cf20-c4d6-4ab1-823a-b254412235d5"
         },
         {
-            "id": "c30368e9-2b35-4a09-a00f-5f96ccd07792",
+            "id": "4c0a1acf-0eab-4bd8-8fb0-39a83a9efb1b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "31721ded-ac9f-48e4-a139-09819ee35e10"
+            "m_owner": "b322cf20-c4d6-4ab1-823a-b254412235d5"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7f6de3da-0651-47f3-9a2e-c56d5f8e6d87",
+    "spriteId": "8bbfba65-b156-4a05-8113-75c9df92201c",
     "visible": true
 }

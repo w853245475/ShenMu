@@ -1,0 +1,1 @@
+touched_player = false;
