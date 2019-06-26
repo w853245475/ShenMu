@@ -11,4 +11,12 @@ jump_max = 2;
 
 move_disabled = false;
 
+m_speed = 8;
+m_step = 20;
+
+vspeed = 0;
+m_gravity = 1;
+
+
+
 image_xscale = -1;

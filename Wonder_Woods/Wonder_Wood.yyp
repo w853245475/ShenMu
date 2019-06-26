@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "49c50432-3687-4be1-a768-9514a55bae2f",
+            "Value": {
+                "id": "e565f589-8cde-47bf-8e9f-d40965b74f4c",
+                "resourcePath": "objects\\O_init\\O_init.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4a755c82-00c5-4631-b64b-ad83e304ff63",
             "Value": {
                 "id": "8af1f919-2ff1-4589-847b-cc719e4afa65",
@@ -327,11 +335,27 @@
             }
         },
         {
+            "Key": "8c00cef6-8ee7-441d-9315-b3a23d91001c",
+            "Value": {
+                "id": "652716d5-dc8f-4184-91c0-cba03a8b7aca",
+                "resourcePath": "tilesets\\tilemap\\tilemap.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "8e721191-a1fb-4f5a-8adf-83ff17163562",
             "Value": {
                 "id": "0014ef20-0cec-4df5-abc1-4c9cdcf163d4",
                 "resourcePath": "objects\\O_Mushroom\\O_Mushroom.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "99bf40d2-dcc4-4711-9547-36a3133444b2",
+            "Value": {
+                "id": "57430254-2bf4-449c-9cc3-293250ae1dd4",
+                "resourcePath": "sprites\\S_SlopeTest\\S_SlopeTest.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -447,10 +471,10 @@
             }
         },
         {
-            "Key": "e64329bf-c90c-4fd4-a2c0-ea13764df09d",
+            "Key": "e4b92436-6d3f-4443-ad8f-f33156cc63d8",
             "Value": {
-                "id": "6db2ec89-649b-4f65-adbd-e137d9e1db32",
-                "resourcePath": "objects\\O_test\\O_test.yy",
+                "id": "e72cef3c-192d-4394-a5ca-64c0de9f0631",
+                "resourcePath": "objects\\O_Test\\O_Test.yy",
                 "resourceType": "GMObject"
             }
         },
