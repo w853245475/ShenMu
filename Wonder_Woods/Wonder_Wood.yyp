@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "b1bb36aa-9257-473b-af7f-02bae8e42761",
+            "Value": {
+                "id": "7b9c6401-9403-47c5-bb8e-defa8523698c",
+                "resourcePath": "objects\\O_MovingSpike\\O_MovingSpike.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b322cf20-c4d6-4ab1-823a-b254412235d5",
             "Value": {
                 "id": "388deb26-4f2f-4ca0-a1c8-c5ab0e421c88",

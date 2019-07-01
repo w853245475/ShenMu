@@ -4,6 +4,8 @@ v_speed = 7;
 grv = 0.3;
 walk_speed = 4;
 
+distance_to_spike = distance_to_object(O_MovingSpike);
+
 jump_magnitude = -3;
 
 jump_times = 0;

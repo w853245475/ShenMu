@@ -7,9 +7,9 @@ if(player_killed){
 
 if(room = Level_4)
 {
-	if(collision_line(x, y+120, x+800, y+120, O_Player, false, true))
+	if(collision_line(x, y, x+800, y, O_Player, false, true))
 	{
-		image_alpha = 1;
-		instance_activate_object(self);
+		block = instance_create_layer(x, y - 96, "Instances", O_EdgeLand);
+		block.image_xscale = 25;
 	}
 }
