@@ -11,6 +11,8 @@ jump_max = 2;
 
 move_disabled = false;
 
+
+pushed_by_leaf =  false;
 //m_speed = 8;
 //m_step = 20;
 

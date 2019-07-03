@@ -136,12 +136,13 @@ if(h_speed == 0 && v_speed == 0)
 y+=v_speed;
 show_debug_message(v_speed);
 */
+
+
 key_left = keyboard_check(vk_left);
 key_right = keyboard_check(vk_right);
 key_jump = keyboard_check_pressed(vk_space) || keyboard_check_pressed(vk_up);
 
 var move = key_right - key_left;
-
 
 
 if(place_meeting(x, y+1, O_Land))
@@ -228,9 +229,15 @@ if(v_speed == -0.1)
 	sprite_index = S_Fall;	
 }
 
-
-h_speed = move * walk_speed;
-v_speed += grv
+if(!pushed_by_leaf){
+	h_speed = move * walk_speed;
+	v_speed += grv;
+}
+else
+{
+	h_speed = -4;
+	v_speed += grv;
+}
 
 
 
@@ -265,3 +272,5 @@ if(h_speed == 0 && v_speed == 0)
 
 y+=v_speed;
 //show_debug_message(v_speed);
+
+

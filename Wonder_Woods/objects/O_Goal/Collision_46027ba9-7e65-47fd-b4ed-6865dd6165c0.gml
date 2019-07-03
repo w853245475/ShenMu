@@ -13,5 +13,9 @@ switch(room)
 		room_goto(Level_4);
 		break;
 		
+	case Level_4:
+		room_goto(Level_5);
+		break;
+		
 	
 }

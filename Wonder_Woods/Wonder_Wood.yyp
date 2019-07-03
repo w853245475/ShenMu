@@ -495,6 +495,22 @@
             }
         },
         {
+            "Key": "ccc25b26-8bc9-4531-b3bc-72b87039989e",
+            "Value": {
+                "id": "0f797f1d-6da0-486d-970a-7e7a56dfc512",
+                "resourcePath": "objects\\O_ClimbStairFruit_Level_4\\O_ClimbStairFruit_Level_4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d8cfc07b-6bb5-4a52-af75-cdec75e98cd3",
+            "Value": {
+                "id": "3c52bf66-a92a-4386-982e-66e3154696a9",
+                "resourcePath": "objects\\O_GrowingSpike_Level_5\\O_GrowingSpike_Level_5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dbf79298-1b02-43e3-bd5c-502449950865",
             "Value": {
                 "id": "2ea69fe5-5e17-41e3-a3f9-2611297d12a9",
@@ -604,6 +620,14 @@
                 "id": "47357c24-c599-4a63-9a1b-fe6e0a4ec137",
                 "resourcePath": "sprites\\S_Tree\\S_Tree.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fbcdea32-5082-4ce2-89dc-b40242611c61",
+            "Value": {
+                "id": "b60f9c5a-848e-4207-b0b1-8f82607a4d91",
+                "resourcePath": "rooms\\Level_5\\Level_5.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

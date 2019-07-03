@@ -4,7 +4,7 @@ if(touched_player == true)
 }
 
 
-if(collision_line(x, y, x+290, y, O_Player, false, true))
+if(collision_line(x, y-1, x+sprite_width, y-1, O_Player, false, true))
 {
 	touched_player = true;	
 }
