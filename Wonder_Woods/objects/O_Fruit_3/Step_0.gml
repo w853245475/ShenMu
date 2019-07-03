@@ -17,14 +17,16 @@ if (player_coming)
 
 if(instance_exists(O_Player))
 {
-	if(O_Player.x >= 1400)
+	if(O_Player.x >= 3160)
 	{
 		
 		x+=10;
+		/*
 		if(O_Player.y >= y)
 		{
 			y -= 7;	
 		}
+		*/
 		
 	}
 }
