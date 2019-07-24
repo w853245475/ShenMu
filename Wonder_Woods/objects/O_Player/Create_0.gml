@@ -13,6 +13,8 @@ move_disabled = false;
 
 
 pushed_by_leaf =  false;
+
+dead_touch_land = false;
 //m_speed = 8;
 //m_step = 20;
 

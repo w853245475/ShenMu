@@ -1,4 +1,4 @@
-
+audio_play_sound(ReachedEnd, 10, false);
 switch(room)
 {
 	case Level_1:
@@ -6,9 +6,9 @@ switch(room)
 		break;
 		
 	case Level_2:
-		room_goto(Level_3);
+		room_goto(Level_4);
 		break;
-		
+		/*
 	case Level_3:
 		room_goto(Level_4);
 		break;
@@ -16,6 +16,6 @@ switch(room)
 	case Level_4:
 		room_goto(Level_5);
 		break;
-		
+		*/
 	
 }

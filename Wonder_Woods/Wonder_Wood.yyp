@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "6b702a72-0d45-4427-afb1-bb478e4c4838",
+            "Value": {
+                "id": "a87d5eb1-e5b4-496b-8154-c9e32d784284",
+                "resourcePath": "objects\\O_Background_Music\\O_Background_Music.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6e53f7f7-f8b2-4a9f-9495-ae09c90d8ad0",
             "Value": {
                 "id": "42c4d8ad-f498-4a7c-88f2-f4ffd421ba94",
@@ -330,7 +338,7 @@
             "Key": "7f54b1e4-e1f5-4e71-9c47-0b78cc9fe0b9",
             "Value": {
                 "id": "d7b5fde1-4b36-441e-a1d5-b68c85aaa6a4",
-                "resourcePath": "rooms\\Level_3\\Level_3.yy",
+                "resourcePath": "rooms\\Level_3_NeedFix\\Level_3_NeedFix.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -388,6 +396,14 @@
                 "id": "0014ef20-0cec-4df5-abc1-4c9cdcf163d4",
                 "resourcePath": "objects\\O_Mushroom\\O_Mushroom.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9447de2e-42d3-4eab-837d-660f893b94a6",
+            "Value": {
+                "id": "03592ce3-fbca-45ba-9e5c-0acaa42a1df8",
+                "resourcePath": "sounds\\Background\\Background.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -604,6 +620,14 @@
                 "id": "3b2913d5-2aa8-441d-be5d-2c5eb985ab07",
                 "resourcePath": "objects\\O_Water\\O_Water.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fa6f8dbc-0384-490f-997c-8b9559dbe76a",
+            "Value": {
+                "id": "6b3b1eb2-045a-4441-ba12-57ad08e762e5",
+                "resourcePath": "sounds\\ReachedEnd\\ReachedEnd.yy",
+                "resourceType": "GMSound"
             }
         },
         {
